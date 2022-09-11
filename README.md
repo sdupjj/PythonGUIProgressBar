@@ -1,9 +1,12 @@
 # PythonGUIProgressBar
 A Python_GUI_Progress_Bar based on PySimpleGUI
 
-![image](https://github.com/sdupjj/PythonGUIProgressBar/blob/master/screenshot.png#pic_center)     
+![image](https://github.com/sdupjj/PythonGUIProgressBar/blob/main/screenshot.png#pic_center)
 
-## 版权 / License  
+## 说明 / Why I share it?
+In fact, I modified the progress bar demo from 'PySimpleGUI' which shows a lot of information in the GUI. So based my needs, I simplify it. 
+
+## 版权 / License
 Be free to use and modify it.
 
 ## 联系我 / Contact me 
