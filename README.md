@@ -1,7 +1,7 @@
 # PythonGUIProgressBar
 A Python_GUI_Progress_Bar based on PySimpleGUI
 
-![image](https://github.com/sdupjj/PythonGUIProgressBar/blob/master/Screenshot.png#pic_center)     
+![image](https://github.com/sdupjj/PythonGUIProgressBar/blob/master/screenshot.png#pic_center)     
 
 ## 版权 / License  
 Be free to use and modify it.
